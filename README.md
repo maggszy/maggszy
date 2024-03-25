@@ -1,9 +1,7 @@
 <h1 align="center"> Hi there, I'm Magda! 👋 </h1>
 
-<h3>
-- 🔭 I'm working in Python, Julia and R
-- 😄 I'm interessted in data analysis and programming
-</h3>
+<h3> 🔭 I'm working in Python, Julia and R </h3>
+<h3> 😄 I'm interessted in data analysis and programming </h3>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
