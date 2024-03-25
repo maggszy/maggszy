@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Magda! 👋
 
 <!--
-**maggszy/maggszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=klaudiajaworek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/klaudiajaworek/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaudiajaworek&hide=jupyter%20notebook&theme=radical)](https://github.com/klaudiajaworek/github-readme-stats)
