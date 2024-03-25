@@ -1,4 +1,4 @@
-### Hi there, I'm Magda! 👋
+<h2 align="center"> Hi there, I'm Magda! 👋 </h2>
 
 - 🔭 I'm working in Python, Julia and R
 - 😄 I'm interessted in data analysis and programming
